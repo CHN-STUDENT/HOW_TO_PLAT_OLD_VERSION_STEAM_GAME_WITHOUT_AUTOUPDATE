@@ -1,11 +1,11 @@
 ## HOW_TO_PLAT_OLD_VERSION_STEAM_GAME_WITHOUT_AUTOUPDATE
-### 如何跳过 steam 更新玩老版本游戏
+## 如何跳过 steam 更新玩老版本游戏
 
 **注意本文仅是一种思路，并未经过充分验证，如果您失败了，请多次尝试或直接放弃，本作者不承担任何无法使用的风险。**
 
 **仅供研究测试和爱好使用，请小心您的账号！**
 
-### 游戏还未更新或游戏更新未完成
+## 游戏还未更新或游戏更新未完成
 
 0.  steam 提示游戏更新时，不要更新！点击取消更新，彻底关闭 steam 。
 
@@ -91,7 +91,7 @@
 然后检查 steam 更新目录`D:\steam\steamapps\downloading`有无下载文件，有的干掉, 直接进入游戏目录打开游戏即可。
 
 
-### 或者下载老版本
+## 或者下载老版本
 
 借助 [DepotDownloader](https://github.com/SteamRE/DepotDownloader) ，下载之后在 depotdownloader 目录新建一个批处理。
 
@@ -119,7 +119,7 @@ dotnet %~dp0DepotDownloader.dll %* ^
 理论上只要伪装好 `appmanifest`就行，此外猜测每次游戏更新都要伪装最新版【还未测试】。
 
 
-### TODO
+## TODO
 
 - 本文有效性需充分验证
 
