@@ -90,7 +90,7 @@
 }
 ```
 
-	然后检查 steam 更新目录`D:\steam\steamapps\downloading`有无下载文件，有的干掉, 直接进入游戏目录打开游戏即可。
+然后检查 steam 更新目录`D:\steam\steamapps\downloading` 有无下载文件，有的干掉, 直接进入游戏目录打开游戏即可。
 
 
 ## 或者下载老版本
